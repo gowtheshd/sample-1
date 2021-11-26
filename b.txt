@@ -1,0 +1,3 @@
+b.file 2 20CSR068
+changing file b
+after changing the b file
